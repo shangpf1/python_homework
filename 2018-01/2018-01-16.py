@@ -1,5 +1,5 @@
 '''
-selenium 元素定位的8中方法
+selenium 元素定位的8种方法
 注：其中by_tag_name 很少用到，标签的意思（input）,若页面比较简单时可以用
 
 '''
