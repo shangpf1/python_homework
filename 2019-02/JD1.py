@@ -1,4 +1,5 @@
 # 爬虫（京东官网手机的名称及价格信息）并保存到excel中
+# https://github.com/python-excel/xlwt  参考文档
 
 import xlwt
 from selenium import webdriver
