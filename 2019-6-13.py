@@ -19,3 +19,15 @@ print("正序排序为：",strs)
 print('g====',ord('g'),'y======',ord('y'),'p===',ord('p'),'d====',ord('d'))
 strs.sort(key=len,reverse=True)
 print("倒序排序为：",strs)
+
+
+"""
+
+运行结果如下：
+
+s==> 115 h===> 104 t===> 116
+正序排序为： ['happy', 'study', 'thing']
+g==== 103 y====== 121 p=== 112 d==== 100
+倒序排序为： ['happy', 'study', 'thing']
+
+"""
