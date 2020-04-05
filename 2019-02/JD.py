@@ -1,4 +1,4 @@
-# 查找多个元素（京东官网手机价格）
+# 查找多个元素（京东官网各手机价格）
 
 from selenium import webdriver
 driver = webdriver.Chrome()
