@@ -3,7 +3,6 @@
 from selenium import webdriver
 driver = webdriver.Chrome()
 driver.get("https://s.weibo.com/")
-
 driver.maximize_window()
 
 # 在输入框输入web自动化，且点击搜索按钮
