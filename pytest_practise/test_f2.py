@@ -22,4 +22,4 @@ def test_s3(open):
     print("用例3：搜索python-3")
 
 if __name__=="__main__":
-    pytest.main("s","test_f1.py")
+    pytest.main("s","test_f2.py")
