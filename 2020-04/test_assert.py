@@ -40,4 +40,4 @@ def test_04():
     assert a != b
 
 if __name__=="__main__":
-    pytest.main("s","test_assert.py")
+    pytest.main("-s","test_assert.py")
