@@ -4,7 +4,7 @@
 """
 import pytest
 
-# 测试账户数据
+# 测试账户数据，传入2个参数
 test_user_data=[{"user":"admin","psw":"123456"},
                 {"user":"admin","psw":""}]
 
