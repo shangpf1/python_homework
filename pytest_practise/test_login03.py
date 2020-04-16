@@ -3,6 +3,7 @@
 不同的参数再从字典里取对应的key值就行，如：user=request.param["user"]
 """
 import pytest
+
 # 测试账户数据
 test_user_data=[{"user":"admin","psw":"123456"},
                 {"user":"admin","psw":""}]
